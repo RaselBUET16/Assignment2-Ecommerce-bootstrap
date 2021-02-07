@@ -1,0 +1,21 @@
+.header-background{
+    background-color:#FFFFF4;
+}
+.backpack-card{
+    border: 0;
+    background-color :#FFFFF4; ;
+}
+.text-color-blue{
+    color: #363958
+}
+.text-color-green{
+    color: #76C27E;
+}
+.btn-color-blue{
+    background-color: #2A1E59;
+    color: white;
+    border: 0;
+}
+.border-radius{
+    border-radius:10px ;
+}
